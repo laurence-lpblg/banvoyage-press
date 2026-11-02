@@ -22,16 +22,115 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "CollectionPage",
-      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#WebPage",
+      "@type": "WebSite",
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#WebSite",
       "url": "https://laurence-lpblg.github.io/banvoyage-press/",
       "name": "BanVoyage Press Room",
-      "description": "Official press releases, media coverage, brand facts and media kit for BanVoyage.",
       "inLanguage": "en-US",
-      "about": { "@id": "https://banvoyage.com/#Organization" },
-      "publisher": { "@id": "https://banvoyage.com/#Organization" },
-      "primaryImageOfPage": { "@id": "https://banvoyage.com/#Logo" },
+      "publisher": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "about": {
+        "@id": "https://banvoyage.com/#Organization"
+      }
+    },
+    {
+      "@type": [
+        "CollectionPage",
+        "AboutPage"
+      ],
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#WebPage",
+      "url": "https://laurence-lpblg.github.io/banvoyage-press/",
+      "name": "BanVoyage Press Room: News, Media Coverage and Brand Facts",
+      "description": "Official press releases, media coverage, brand facts, founder bios and media kit for BanVoyage.",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://laurence-lpblg.github.io/banvoyage-press/#WebSite"
+      },
+      "about": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "mainEntity": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "publisher": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "mentions": [
+        {
+          "@id": "https://banvoyage.com/about/brooke-banville/#Person"
+        },
+        {
+          "@id": "https://banvoyage.com/about/laurence-banville/#Person"
+        },
+        {
+          "@id": "https://laurence-lpblg.github.io/banvoyage-press/#ApukkaRoomTour"
+        }
+      ],
+      "primaryImageOfPage": {
+        "@id": "https://laurence-lpblg.github.io/banvoyage-press/#HeroImage"
+      },
+      "image": [
+        {
+          "@id": "https://laurence-lpblg.github.io/banvoyage-press/#HeroImage"
+        },
+        {
+          "@id": "https://banvoyage.com/#Logo"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://laurence-lpblg.github.io/banvoyage-press/#Reviews"
+        },
+        {
+          "@id": "https://laurence-lpblg.github.io/banvoyage-press/#ApukkaRoomTour"
+        }
+      ],
+      "breadcrumb": {
+        "@id": "https://laurence-lpblg.github.io/banvoyage-press/#Breadcrumb"
+      },
+      "significantLink": [
+        "https://banvoyage.com/",
+        "https://banvoyage.com/about/",
+        "https://banvoyage.com/about/brooke-banville/",
+        "https://banvoyage.com/about/laurence-banville/",
+        "https://banvoyage.com/winter/lapland/",
+        "https://banvoyage.com/winter/lapland/apukka-resort/",
+        "https://banvoyage.com/where-does-everyone-sleep/",
+        "https://banvoyage.com/favorite-things/",
+        "https://banvoyage.com/affiliate-disclosure/",
+        "https://www.youtube.com/watch?v=a0AERt8ihu4",
+        "https://www.youtube.com/@The.BanVoyage",
+        "https://www.instagram.com/thebanvoyage/",
+        "https://www.tiktok.com/@the.banvoyage",
+        "https://www.pinterest.com/thebanvoyage/",
+        "https://www.facebook.com/the.banvoyage"
+      ],
+      "relatedLink": [
+        "https://laurencebanville.com/",
+        "https://www.banvillelaw.com/",
+        "https://www.linkedin.com/in/brooke-banville-3767b452"
+      ],
+      "datePublished": "2026-11-02",
       "dateModified": "2026-11-02"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#Breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "BanVoyage",
+          "item": "https://banvoyage.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Press Room",
+          "item": "https://laurence-lpblg.github.io/banvoyage-press/"
+        }
+      ]
     },
     {
       "@type": "Organization",
@@ -42,9 +141,33 @@
       "email": "hello@banvoyage.com",
       "slogan": "Honest travel reviews, room by room",
       "description": "BanVoyage is a family travel review site from Brooke and Laurence Banville: first-hand reviews of places the family stayed, room tours that show where everyone sleeps, and what things really cost.",
-      "logo": { "@type": "ImageObject", "@id": "https://banvoyage.com/#Logo", "url": "https://banvoyage.com/brand/banvoyage-stamp.png", "width": 751, "height": 751 },
-      "founder": [{ "@id": "https://banvoyage.com/about/brooke-banville/#Person" }, { "@id": "https://banvoyage.com/about/laurence-banville/#Person" }],
-      "contactPoint": { "@type": "ContactPoint", "contactType": "media inquiries", "email": "hello@banvoyage.com", "availableLanguage": "English" },
+      "foundingDate": "2026",
+      "founder": [
+        {
+          "@id": "https://banvoyage.com/about/brooke-banville/#Person"
+        },
+        {
+          "@id": "https://banvoyage.com/about/laurence-banville/#Person"
+        }
+      ],
+      "logo": {
+        "@id": "https://banvoyage.com/#Logo"
+      },
+      "image": {
+        "@id": "https://banvoyage.com/#Logo"
+      },
+      "brand": {
+        "@id": "https://banvoyage.com/#Brand"
+      },
+      "contactPoint": {
+        "@id": "https://banvoyage.com/#ContactPoint"
+      },
+      "publishingPrinciples": "https://banvoyage.com/affiliate-disclosure/",
+      "subjectOf": [
+        {
+          "@id": "https://laurence-lpblg.github.io/banvoyage-press/#WebPage"
+        }
+      ],
       "sameAs": [
         "https://www.youtube.com/@The.BanVoyage",
         "https://www.instagram.com/thebanvoyage/",
@@ -53,39 +176,254 @@
         "https://www.facebook.com/the.banvoyage",
         "https://laurence-lpblg.github.io/banvoyage-press/"
       ],
-      "knowsAbout": ["Family travel", "Cruises", "Disney parks", "All-inclusive resorts", "Finnish Lapland", "Rovaniemi", "Aurora"]
+      "knowsAbout": [
+        "Family travel",
+        "Cruises",
+        "Disney parks",
+        "All-inclusive resorts",
+        {
+          "@type": "Place",
+          "name": "Finnish Lapland",
+          "sameAs": "https://en.wikipedia.org/wiki/Lapland_(Finland)"
+        },
+        {
+          "@type": "Place",
+          "name": "Rovaniemi",
+          "sameAs": "https://en.wikipedia.org/wiki/Rovaniemi"
+        },
+        {
+          "@type": "Thing",
+          "name": "Aurora",
+          "sameAs": "https://en.wikipedia.org/wiki/Aurora"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://banvoyage.com/#Website",
+      "url": "https://banvoyage.com/",
+      "name": "BanVoyage",
+      "publisher": {
+        "@id": "https://banvoyage.com/#Organization"
+      }
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://banvoyage.com/#Brand",
+      "name": "BanVoyage",
+      "url": "https://banvoyage.com/",
+      "logo": {
+        "@id": "https://banvoyage.com/#Logo"
+      },
+      "slogan": "Honest travel reviews, room by room",
+      "sameAs": [
+        "https://www.youtube.com/@The.BanVoyage",
+        "https://www.instagram.com/thebanvoyage/",
+        "https://www.tiktok.com/@the.banvoyage",
+        "https://www.pinterest.com/thebanvoyage/",
+        "https://www.facebook.com/the.banvoyage"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://banvoyage.com/#Logo",
+      "url": "https://banvoyage.com/brand/banvoyage-stamp.png",
+      "contentUrl": "https://banvoyage.com/brand/banvoyage-stamp.png",
+      "width": 751,
+      "height": 751,
+      "caption": "BanVoyage passport stamp logo"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#HeroImage",
+      "url": "https://laurence-lpblg.github.io/banvoyage-press/img/aurora-over-apukka-glass-igloos.webp",
+      "contentUrl": "https://laurence-lpblg.github.io/banvoyage-press/img/aurora-over-apukka-glass-igloos.webp",
+      "width": 1024,
+      "height": 771,
+      "caption": "Northern lights over the glass igloos of Apukka Resort, Finnish Lapland"
+    },
+    {
+      "@type": "ContactPoint",
+      "@id": "https://banvoyage.com/#ContactPoint",
+      "contactType": "media inquiries",
+      "email": "hello@banvoyage.com",
+      "availableLanguage": "English"
     },
     {
       "@type": "Person",
       "@id": "https://banvoyage.com/about/brooke-banville/#Person",
       "name": "Brooke Banville",
+      "givenName": "Brooke",
+      "familyName": "Banville",
       "jobTitle": "Co-founder and lead writer, BanVoyage",
       "url": "https://banvoyage.com/about/brooke-banville/",
-      "image": "https://banvoyage.com/people/brooke-banville.jpg",
-      "worksFor": { "@id": "https://banvoyage.com/#Organization" },
-      "alumniOf": "Temple University Fox School of Business",
-      "sameAs": ["https://www.linkedin.com/in/brooke-banville-3767b452"]
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://banvoyage.com/about/brooke-banville/#PrimaryImage",
+        "url": "https://banvoyage.com/people/brooke-banville.jpg",
+        "contentUrl": "https://banvoyage.com/people/brooke-banville.jpg",
+        "width": 800,
+        "height": 800,
+        "caption": "Brooke Banville, co-founder of BanVoyage"
+      },
+      "worksFor": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "spouse": {
+        "@id": "https://banvoyage.com/about/laurence-banville/#Person"
+      },
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "license",
+        "name": "Certified Public Accountant"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "Temple University, Fox School of Business",
+        "sameAs": "https://en.wikipedia.org/wiki/Fox_School_of_Business_and_Management"
+      },
+      "knowsAbout": [
+        "Family travel",
+        "Room tours",
+        "Travel video",
+        "Accounting"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/brooke-banville-3767b452"
+      ]
     },
     {
       "@type": "Person",
       "@id": "https://banvoyage.com/about/laurence-banville/#Person",
       "name": "Laurence Banville",
+      "givenName": "Laurence",
+      "familyName": "Banville",
       "jobTitle": "Co-founder, BanVoyage; Managing Partner, Banville Law",
       "url": "https://banvoyage.com/about/laurence-banville/",
-      "image": "https://banvoyage.com/people/laurence-banville.jpg",
-      "worksFor": { "@id": "https://banvoyage.com/#Organization" },
-      "alumniOf": "University College Dublin",
-      "sameAs": ["https://laurencebanville.com/", "https://www.banvillelaw.com/", "https://www.linkedin.com/in/lbanville/", "https://x.com/LPBanville"]
+      "image": {
+        "@type": "ImageObject",
+        "@id": "https://banvoyage.com/about/laurence-banville/#PrimaryImage",
+        "url": "https://banvoyage.com/people/laurence-banville.jpg",
+        "contentUrl": "https://banvoyage.com/people/laurence-banville.jpg",
+        "width": 800,
+        "height": 800,
+        "caption": "Laurence Banville, co-founder of BanVoyage"
+      },
+      "worksFor": [
+        {
+          "@id": "https://banvoyage.com/#Organization"
+        },
+        {
+          "@type": "LegalService",
+          "name": "Banville Law",
+          "url": "https://www.banvillelaw.com/"
+        }
+      ],
+      "spouse": {
+        "@id": "https://banvoyage.com/about/brooke-banville/#Person"
+      },
+      "birthPlace": {
+        "@type": "Place",
+        "name": "County Wexford, Ireland",
+        "sameAs": "https://en.wikipedia.org/wiki/County_Wexford"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "University College Dublin",
+        "sameAs": "https://en.wikipedia.org/wiki/University_College_Dublin"
+      },
+      "knowsLanguage": [
+        "English",
+        "French"
+      ],
+      "sameAs": [
+        "https://laurencebanville.com/",
+        "https://www.banvillelaw.com/",
+        "https://www.linkedin.com/in/lbanville/",
+        "https://x.com/LPBanville"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#Reviews",
+      "name": "BanVoyage reviews: Finnish Lapland",
+      "numberOfItems": 9,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Our Lapland Trip: Rovaniemi, Finland",
+          "url": "https://banvoyage.com/winter/lapland/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Apukka Resort Review: Our Family Stay in an Aurora Family Cabin",
+          "url": "https://banvoyage.com/winter/lapland/apukka-resort/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Apukka Activities Reviewed: Huskies, Snowmobiles and a Reindeer Ride to Santa",
+          "url": "https://banvoyage.com/winter/lapland/apukka-activities/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "SantaPark Review: Why the VEP Tour Was Worth It",
+          "url": "https://banvoyage.com/winter/lapland/santapark/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Santa Claus Village Review: Is It Worth It with Kids?",
+          "url": "https://banvoyage.com/winter/lapland/santa-claus-village/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Northern Lights in Rovaniemi: The Best Time to See Them in Finland",
+          "url": "https://banvoyage.com/winter/lapland/northern-lights/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "How We Got to Lapland from the US",
+          "url": "https://banvoyage.com/winter/lapland/getting-to-lapland/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Where to Stay in Rovaniemi with Kids",
+          "url": "https://banvoyage.com/winter/lapland/where-to-stay-rovaniemi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Things to Do in Rovaniemi with Kids",
+          "url": "https://banvoyage.com/winter/lapland/things-to-do-rovaniemi/"
+        }
+      ]
     },
     {
       "@type": "VideoObject",
+      "@id": "https://laurence-lpblg.github.io/banvoyage-press/#ApukkaRoomTour",
       "name": "Apukka Resort Glass Roof Cabin Room Tour | Lapland with Kids",
       "description": "Room tour of the Aurora Family Cabin at Apukka Resort, Rovaniemi, Finnish Lapland, showing where a family of four sleeps.",
       "thumbnailUrl": "https://img.youtube.com/vi/a0AERt8ihu4/maxresdefault.jpg",
       "uploadDate": "2026-11-01T17:37:36+00:00",
       "contentUrl": "https://www.youtube.com/watch?v=a0AERt8ihu4",
       "embedUrl": "https://www.youtube.com/embed/a0AERt8ihu4",
-      "publisher": { "@id": "https://banvoyage.com/#Organization" }
+      "publisher": {
+        "@id": "https://banvoyage.com/#Organization"
+      },
+      "creator": {
+        "@id": "https://banvoyage.com/about/brooke-banville/#Person"
+      },
+      "contentLocation": {
+        "@type": "Place",
+        "name": "Apukka Resort, Rovaniemi, Finland"
+      }
     }
   ]
 }
