@@ -1,0 +1,4395 @@
+{
+  "release": {
+    "title": "Brooke and Laurence Banville Launch BanVoyage Travel Site BanVoyage.com",
+    "date": "2026-11-03",
+    "dateDisplay": "November 3, 2026",
+    "url": "https://pressadvantage.com/story/109280-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com",
+    "mediaPage": "https://pressadvantage.com/i_organization/banvoyage",
+    "site": "https://banvoyage.com/"
+  },
+  "counts": {
+    "reportRows": 704,
+    "pickupLinks": 704,
+    "namedOutlets": 461,
+    "unlabeledPickups": 243,
+    "featured": 30
+  },
+  "featured": [
+    {
+      "name": "USA TODAY",
+      "url": "https://www.usatoday.com/press-release/story/55582/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 94
+    },
+    {
+      "name": "Arizona Republic",
+      "url": "https://www.azcentral.com/press-release/story/146171/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 90
+    },
+    {
+      "name": "The Detroit News",
+      "url": "https://www.detroitnews.com/press-release/story/194640/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 88
+    },
+    {
+      "name": "Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/press-release/story/145373/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 85
+    },
+    {
+      "name": "Des Moines Register",
+      "url": "https://www.desmoinesregister.com/press-release/story/147575/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 85
+    },
+    {
+      "name": "Telegram & Gazette",
+      "url": "https://www.telegram.com/press-release/story/245800/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 82
+    },
+    {
+      "name": "Wicked Local",
+      "url": "https://www.wickedlocal.com/press-release/story/186459/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 82
+    },
+    {
+      "name": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/press-release/story/257462/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 80
+    },
+    {
+      "name": "Delaware Online",
+      "url": "https://www.delawareonline.com/press-release/story/216342/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 80
+    },
+    {
+      "name": "Florida Today",
+      "url": "https://www.floridatoday.com/press-release/story/183155/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78
+    },
+    {
+      "name": "Green Bay Press-Gazette",
+      "url": "https://www.greenbaypressgazette.com/press-release/story/201215/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78
+    },
+    {
+      "name": "Providence Journal",
+      "url": "https://www.providencejournal.com/press-release/story/140670/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78
+    },
+    {
+      "name": "Citizen-Times",
+      "url": "https://www.citizen-times.com/press-release/story/166927/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 77
+    },
+    {
+      "name": "Post-Crescent",
+      "url": "https://www.postcrescent.com/press-release/story/137041/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76
+    },
+    {
+      "name": "Savannah Morning News",
+      "url": "https://www.savannahnow.com/press-release/story/140724/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76
+    },
+    {
+      "name": "Wausau Daily Herald",
+      "url": "https://www.wausaudailyherald.com/press-release/story/141618/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76
+    },
+    {
+      "name": "Reno Gazette Journal",
+      "url": "https://www.rgj.com/press-release/story/245026/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75
+    },
+    {
+      "name": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/press-release/story/140040/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75
+    },
+    {
+      "name": "Treasure Coast Newspapers",
+      "url": "https://www.tcpalm.com/press-release/story/140253/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75
+    },
+    {
+      "name": "Visalia Times-Delta",
+      "url": "https://www.visaliatimesdelta.com/press-release/story/140501/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75
+    },
+    {
+      "name": "Palm Beach Daily News",
+      "url": "https://www.palmbeachdailynews.com/press-release/story/141131/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74
+    },
+    {
+      "name": "Peoria Journal Star",
+      "url": "https://www.pjstar.com/press-release/story/140452/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74
+    },
+    {
+      "name": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/press-release/story/137315/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74
+    },
+    {
+      "name": "Ventura County Star",
+      "url": "https://www.vcstar.com/press-release/story/140079/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74
+    },
+    {
+      "name": "Norwich Bulletin",
+      "url": "https://www.norwichbulletin.com/press-release/story/141735/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 73
+    },
+    {
+      "name": "Buffalo News",
+      "url": "http://markets.financialcontent.com/buffnews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66
+    },
+    {
+      "name": "Pittsburgh Post-Gazette",
+      "url": "http://markets.financialcontent.com/postgazette/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66
+    },
+    {
+      "name": "San Diego Union-Tribune",
+      "url": "https://markets.financialcontent.com/sandiego/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66
+    },
+    {
+      "name": "Star Tribune",
+      "url": "https://markets.financialcontent.com/startribune/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66
+    },
+    {
+      "name": "WRAL",
+      "url": "https://markets.financialcontent.com/wral/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66
+    }
+  ],
+  "pickups": [
+    {
+      "name": "USA TODAY",
+      "url": "https://www.usatoday.com/press-release/story/55582/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 94,
+      "source": "host_name"
+    },
+    {
+      "name": "Arizona Republic",
+      "url": "https://www.azcentral.com/press-release/story/146171/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 90,
+      "source": "host_name"
+    },
+    {
+      "name": "The Detroit News",
+      "url": "https://www.detroitnews.com/press-release/story/194640/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 88,
+      "source": "host_name"
+    },
+    {
+      "name": "Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/press-release/story/145373/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 85,
+      "source": "host_name"
+    },
+    {
+      "name": "Des Moines Register",
+      "url": "https://www.desmoinesregister.com/press-release/story/147575/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 85,
+      "source": "host_name"
+    },
+    {
+      "name": "Telegram & Gazette",
+      "url": "https://www.telegram.com/press-release/story/245800/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 82,
+      "source": "host_name"
+    },
+    {
+      "name": "Wicked Local",
+      "url": "https://www.wickedlocal.com/press-release/story/186459/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 82,
+      "source": "host_name"
+    },
+    {
+      "name": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/press-release/story/257462/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 80,
+      "source": "host_name"
+    },
+    {
+      "name": "Delaware Online",
+      "url": "https://www.delawareonline.com/press-release/story/216342/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 80,
+      "source": "host_name"
+    },
+    {
+      "name": "York Dispatch (abridged)",
+      "url": "https://www.ydr.com/press-release/story/136859/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 79,
+      "source": "host_name"
+    },
+    {
+      "name": "Florida Today",
+      "url": "https://www.floridatoday.com/press-release/story/183155/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78,
+      "source": "host_name"
+    },
+    {
+      "name": "Green Bay Press-Gazette",
+      "url": "https://www.greenbaypressgazette.com/press-release/story/201215/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78,
+      "source": "host_name"
+    },
+    {
+      "name": "Providence Journal",
+      "url": "https://www.providencejournal.com/press-release/story/140670/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 78,
+      "source": "host_name"
+    },
+    {
+      "name": "Citizen-Times",
+      "url": "https://www.citizen-times.com/press-release/story/166927/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 77,
+      "source": "host_name"
+    },
+    {
+      "name": "Post-Crescent",
+      "url": "https://www.postcrescent.com/press-release/story/137041/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76,
+      "source": "host_name"
+    },
+    {
+      "name": "Savannah Morning News",
+      "url": "https://www.savannahnow.com/press-release/story/140724/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76,
+      "source": "host_name"
+    },
+    {
+      "name": "Wausau Daily Herald",
+      "url": "https://www.wausaudailyherald.com/press-release/story/141618/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 76,
+      "source": "host_name"
+    },
+    {
+      "name": "Reno Gazette Journal",
+      "url": "https://www.rgj.com/press-release/story/245026/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75,
+      "source": "host_name"
+    },
+    {
+      "name": "Tallahassee Democrat",
+      "url": "https://www.tallahassee.com/press-release/story/140040/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75,
+      "source": "host_name"
+    },
+    {
+      "name": "Treasure Coast Newspapers",
+      "url": "https://www.tcpalm.com/press-release/story/140253/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75,
+      "source": "host_name"
+    },
+    {
+      "name": "Visalia Times-Delta",
+      "url": "https://www.visaliatimesdelta.com/press-release/story/140501/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 75,
+      "source": "host_name"
+    },
+    {
+      "name": "Palm Beach Daily News",
+      "url": "https://www.palmbeachdailynews.com/press-release/story/141131/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74,
+      "source": "host_name"
+    },
+    {
+      "name": "Peoria Journal Star",
+      "url": "https://www.pjstar.com/press-release/story/140452/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74,
+      "source": "host_name"
+    },
+    {
+      "name": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/press-release/story/137315/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74,
+      "source": "host_name"
+    },
+    {
+      "name": "Ventura County Star",
+      "url": "https://www.vcstar.com/press-release/story/140079/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 74,
+      "source": "host_name"
+    },
+    {
+      "name": "Norwich Bulletin",
+      "url": "https://www.norwichbulletin.com/press-release/story/141735/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 73,
+      "source": "host_name"
+    },
+    {
+      "name": "Redding Record Searchlight",
+      "url": "https://www.redding.com/press-release/story/136705/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 73,
+      "source": "host_name"
+    },
+    {
+      "name": "Star News",
+      "url": "https://www.starnewsonline.com/press-release/story/140513/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 73,
+      "source": "host_name"
+    },
+    {
+      "name": "Journal & Courier",
+      "url": "https://www.jconline.com/press-release/story/138868/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 72,
+      "source": "host_name"
+    },
+    {
+      "name": "St. Cloud Times",
+      "url": "https://www.sctimes.com/press-release/story/140631/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 72,
+      "source": "host_name"
+    },
+    {
+      "name": "Times Record News",
+      "url": "https://www.timesrecordnews.com/press-release/story/139991/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 72,
+      "source": "host_name"
+    },
+    {
+      "name": "Poughkeepsie Journal",
+      "url": "https://www.poughkeepsiejournal.com/press-release/story/140517/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 71,
+      "source": "host_name"
+    },
+    {
+      "name": "Times Herald",
+      "url": "https://www.thetimesherald.com/press-release/story/141424/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 71,
+      "source": "host_name"
+    },
+    {
+      "name": "Utica Observer-Dispatch",
+      "url": "https://www.uticaod.com/press-release/story/140118/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 71,
+      "source": "host_name"
+    },
+    {
+      "name": "Victorville Daily Press",
+      "url": "https://www.vvdailypress.com/press-release/story/141114/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 71,
+      "source": "host_name"
+    },
+    {
+      "name": "Athens Banner-Herald",
+      "url": "https://www.onlineathens.com/press-release/story/141861/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 70,
+      "source": "host_name"
+    },
+    {
+      "name": "CelebHomes",
+      "url": "https://lifestyle.celebhomes.net/story/638085/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 70,
+      "source": "host_name"
+    },
+    {
+      "name": "Gastonia Gazette",
+      "url": "https://www.gastongazette.com/press-release/story/167716/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 70,
+      "source": "host_name"
+    },
+    {
+      "name": "Spectrum",
+      "url": "https://www.thespectrum.com/press-release/story/140237/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 70,
+      "source": "host_name"
+    },
+    {
+      "name": "Minyanville",
+      "url": "http://finance.minyanville.com/minyanville/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 69,
+      "source": "host_name"
+    },
+    {
+      "name": "Northwest Florida Daily News",
+      "url": "https://www.nwfdailynews.com/press-release/story/141871/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 69,
+      "source": "host_name"
+    },
+    {
+      "name": "Tuscaloosa News",
+      "url": "https://www.tuscaloosanews.com/press-release/story/137599/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 69,
+      "source": "host_name"
+    },
+    {
+      "name": "A Green Sign",
+      "url": "https://lifestyle.agreensign.com/story/465638/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 68,
+      "source": "host_name"
+    },
+    {
+      "name": "Rockford Register Star",
+      "url": "https://www.rrstar.com/press-release/story/139992/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 68,
+      "source": "host_name"
+    },
+    {
+      "name": "Salinas Californian",
+      "url": "https://www.thecalifornian.com/press-release/story/140761/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 68,
+      "source": "host_name"
+    },
+    {
+      "name": "Zanesville Times Recorder",
+      "url": "https://www.zanesvilletimesrecorder.com/press-release/story/140403/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 68,
+      "source": "host_name"
+    },
+    {
+      "name": "Abilene Reporter-News",
+      "url": "https://www.reporternews.com/press-release/story/141583/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 67,
+      "source": "host_name"
+    },
+    {
+      "name": "News Star",
+      "url": "https://www.thenewsstar.com/press-release/story/136804/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 67,
+      "source": "host_name"
+    },
+    {
+      "name": "Shreveport Times",
+      "url": "https://www.shreveporttimes.com/press-release/story/140763/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 67,
+      "source": "host_name"
+    },
+    {
+      "name": "Times LA",
+      "url": "https://lifestyle.timesla.com/story/1018879/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 67,
+      "source": "host_name"
+    },
+    {
+      "name": "York Dispatch (main)",
+      "url": "https://www.yorkdispatch.com/press-release/story/140154/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 67,
+      "source": "host_name"
+    },
+    {
+      "name": "1 Discount Brokerage",
+      "url": "https://markets.financialcontent.com/1discountbrokerage/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "2KUTV",
+      "url": "https://markets.financialcontent.com/fourptsmedia.kutv/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "BioOptics World",
+      "url": "https://markets.financialcontent.com/pennwell.bioopticsworld/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "BPAS",
+      "url": "https://markets.financialcontent.com/bpas/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Buffalo News",
+      "url": "http://markets.financialcontent.com/buffnews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Cabling Installation & Maintenance (PennWell)",
+      "url": "https://markets.financialcontent.com/pennwell.cabling/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Cerces Courier",
+      "url": "https://markets.financialcontent.com/cercescourier/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Concord Monitor",
+      "url": "https://markets.financialcontent.com/concordmonitor/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Custer County Chief",
+      "url": "https://markets.financialcontent.com/custercountychief/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Daily Penny Alerts",
+      "url": "https://markets.financialcontent.com/dailypennyalerts/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Dental Products Report (PennWell)",
+      "url": "https://markets.financialcontent.com/pennwell.dental/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Dow Theory Letters",
+      "url": "https://markets.financialcontent.com/dowtheoryletters/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Factor This Power Engineering",
+      "url": "https://markets.financialcontent.com/pennwell.renewableenergy/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Fat Pitch Financials",
+      "url": "https://markets.financialcontent.com/fatpitch.financials/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Financial Content Stocks",
+      "url": "https://markets.financialcontent.com/stocks/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Franklin Credit",
+      "url": "http://markets.financialcontent.com/franklincredit/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "GAFRI",
+      "url": "https://markets.financialcontent.com/gafri/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Industrial Laser",
+      "url": "https://markets.financialcontent.com/pennwell.industriallaser/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Inside Indiana Business",
+      "url": "https://markets.financialcontent.com/worldnow.insideindianabusiness/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "International Business Times",
+      "url": "https://markets.financialcontent.com/ibtimes/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Kelowna Daily Courier",
+      "url": "https://markets.financialcontent.com/kelownadailycourier/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Laser Focus World",
+      "url": "https://markets.financialcontent.com/pennwell.laserfocusworld/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Lethbridge Herald",
+      "url": "https://markets.financialcontent.com/lethbridgeherald/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Medicine Hat News",
+      "url": "https://markets.financialcontent.com/medicinehatnews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsOK",
+      "url": "http://markets.financialcontent.com/newsok/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Oil & Gas Journal",
+      "url": "https://markets.financialcontent.com/pennwell.oilgasjournal/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Penn Energy",
+      "url": "https://markets.financialcontent.com/pennwell.pennenergy/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Pennwell",
+      "url": "https://markets.financialcontent.com/pennwell.elp/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Pennwell Hydroworld",
+      "url": "https://markets.financialcontent.com/pennwell.hydroworld/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Penticton Herald",
+      "url": "https://markets.financialcontent.com/pentictonherald/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Pittsburgh Post-Gazette",
+      "url": "http://markets.financialcontent.com/postgazette/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Record",
+      "url": "https://www.recordnet.com/press-release/story/140576/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Rockford Register Star (FinancialContent)",
+      "url": "https://markets.financialcontent.com/gatehouse.rrstar/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "San Diego Union-Tribune",
+      "url": "https://markets.financialcontent.com/sandiego/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Star Press",
+      "url": "https://www.thestarpress.com/press-release/story/140764/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Star Tribune",
+      "url": "https://markets.financialcontent.com/startribune/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Statesman Examiner",
+      "url": "https://markets.financialcontent.com/statesmanexaminer/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Street Insider",
+      "url": "https://markets.financialcontent.com/streetinsider/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Talk Markets",
+      "url": "https://markets.financialcontent.com/talkmarkets/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Tamar Securities",
+      "url": "https://markets.financialcontent.com/tamarsecurities/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Thrivent Financial",
+      "url": "https://markets.financialcontent.com/thriventfinancial/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "WaterWorld",
+      "url": "https://markets.financialcontent.com/pennwell.waterworld/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Winslow",
+      "url": "http://markets.financialcontent.com/winslow/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "WRAL",
+      "url": "https://markets.financialcontent.com/wral/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "WSS",
+      "url": "https://markets.financialcontent.com/wss/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 66,
+      "source": "host_name"
+    },
+    {
+      "name": "Independent Mail",
+      "url": "https://www.independentmail.com/press-release/story/138823/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 65,
+      "source": "host_name"
+    },
+    {
+      "name": "Observer-Reporter",
+      "url": "https://stocks.observer-reporter.com/observerreporter/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 65,
+      "source": "host_name"
+    },
+    {
+      "name": "Beaver County Times",
+      "url": "https://www.timesonline.com/press-release/story/140222/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 64,
+      "source": "host_name"
+    },
+    {
+      "name": "Foster's Daily Democrat",
+      "url": "https://www.fosters.com/press-release/story/196828/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 64,
+      "source": "host_name"
+    },
+    {
+      "name": "Taunton Gazette",
+      "url": "https://www.tauntongazette.com/press-release/story/140536/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 63,
+      "source": "host_name"
+    },
+    {
+      "name": "Words Journal",
+      "url": "https://lifestyle.wordsjournal.com/story/915819/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 63,
+      "source": "host_name"
+    },
+    {
+      "name": "Ames Tribune",
+      "url": "https://www.amestrib.com/press-release/story/199807/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Barchart",
+      "url": "https://www.barchart.com/press-releases/8625845/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Chillicothe Gazette",
+      "url": "https://www.chillicothegazette.com/press-release/story/171977/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Daily Journal",
+      "url": "https://www.thedailyjournal.com/press-release/story/140502/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Dev Insider",
+      "url": "https://lifestyle.d-h.st/story/997765/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Fond du Lac Reporter",
+      "url": "https://www.fdlreporter.com/press-release/story/192588/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Health Source Mag",
+      "url": "https://lifestyle.healthsourcemag.com/story/986131/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Side Car",
+      "url": "https://lifestyle.side.cr/story/922452/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Southwest Times",
+      "url": "https://www.swtimes.com/press-release/story/140601/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "The Town Talk",
+      "url": "https://www.thetowntalk.com/press-release/story/141290/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 62,
+      "source": "host_name"
+    },
+    {
+      "name": "Northwestern",
+      "url": "https://www.thenorthwestern.com/press-release/story/139869/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 61,
+      "source": "host_name"
+    },
+    {
+      "name": "Public Opinion Online",
+      "url": "https://www.publicopiniononline.com/press-release/story/140272/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 61,
+      "source": "host_name"
+    },
+    {
+      "name": "Sheboygan Press",
+      "url": "https://www.sheboyganpress.com/press-release/story/140992/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 61,
+      "source": "host_name"
+    },
+    {
+      "name": "Shelby Star",
+      "url": "https://www.shelbystar.com/press-release/story/140402/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 61,
+      "source": "host_name"
+    },
+    {
+      "name": "Daily Comet",
+      "url": "https://www.dailycomet.com/press-release/story/156848/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 60,
+      "source": "host_name"
+    },
+    {
+      "name": "Hotel Guide",
+      "url": "https://lifestyle.hoteleguide.com/story/959804/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 60,
+      "source": "host_name"
+    },
+    {
+      "name": "Info Tech Inc",
+      "url": "https://lifestyle.infotechinc.net/story/992526/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 60,
+      "source": "host_name"
+    },
+    {
+      "name": "Star-Gazette",
+      "url": "https://www.stargazette.com/press-release/story/142678/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 60,
+      "source": "host_name"
+    },
+    {
+      "name": "Times Reporter",
+      "url": "https://www.timesreporter.com/press-release/story/141268/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 60,
+      "source": "host_name"
+    },
+    {
+      "name": "Boost Up",
+      "url": "https://lifestyle.boostupblog.com/story/453059/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 59,
+      "source": "host_name"
+    },
+    {
+      "name": "Phenomena",
+      "url": "https://lifestyle.phenomena.org/story/974403/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 59,
+      "source": "host_name"
+    },
+    {
+      "name": "Slimag",
+      "url": "https://lifestyle.sli.mg/story/917570/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 59,
+      "source": "host_name"
+    },
+    {
+      "name": "The Daily Record",
+      "url": "https://www.the-daily-record.com/press-release/story/140341/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 59,
+      "source": "host_name"
+    },
+    {
+      "name": "Wisconsin Rapids Tribune",
+      "url": "https://www.wisconsinrapidstribune.com/press-release/story/137154/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 59,
+      "source": "host_name"
+    },
+    {
+      "name": "My Mother Lode",
+      "url": "http://money.mymotherlode.com/clarkebroadcasting.mymotherlode/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 58,
+      "source": "host_name"
+    },
+    {
+      "name": "News-Messenger",
+      "url": "https://www.thenews-messenger.com/press-release/story/140632/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 58,
+      "source": "host_name"
+    },
+    {
+      "name": "Tri-County Independent",
+      "url": "https://www.tricountyindependent.com/press-release/story/140251/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 58,
+      "source": "host_name"
+    },
+    {
+      "name": "Bluffton Today",
+      "url": "https://www.blufftontoday.com/press-release/story/157376/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "Chronicle Journal",
+      "url": "https://markets.chroniclejournal.com/chroniclejournal/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "Record-Courier",
+      "url": "https://www.record-courier.com/press-release/story/140291/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "SM Solar",
+      "url": "https://lifestyle.smsolar.net/story/975662/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "Stevens Point Journal",
+      "url": "https://www.stevenspointjournal.com/press-release/story/136891/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "TDS Telecom",
+      "url": "http://portal.tds.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 57,
+      "source": "host_name"
+    },
+    {
+      "name": "Altius",
+      "url": "https://lifestyle.altiusdirectory.com/story/449671/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "La Mañaa Córdoba",
+      "url": "https://lifestyle.lmcordoba.com.ar/story/992649/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "Record Herald",
+      "url": "https://www.therecordherald.com/press-release/story/140910/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "Taste Terminal",
+      "url": "https://lifestyle.tasteterminal.com/story/976873/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "The Leader",
+      "url": "https://www.the-leader.com/press-release/story/140663/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "The Public Opinion",
+      "url": "https://www.thepublicopinion.com/press-release/story/139008/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "Thrive Insider",
+      "url": "https://lifestyle.thriveinsider.com/story/962112/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "Worcester Mag",
+      "url": "https://www.worcestermag.com/press-release/story/141223/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 56,
+      "source": "host_name"
+    },
+    {
+      "name": "1st Counsel",
+      "url": "https://lifestyle.1stcounsel.com/story/455242/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Bucyrus Telegraph-Forum",
+      "url": "https://www.bucyrustelegraphforum.com/press-release/story/158783/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Digital Adblog",
+      "url": "https://lifestyle.digitaladblog.com/story/991978/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "God Of Sound",
+      "url": "https://lifestyle.godofsound.com/story/443699/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Hubspotes",
+      "url": "https://lifestyle.hubspotes.com/story/945698/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Inspired",
+      "url": "https://lifestyle.inspiredn.com/story/963364/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Successxl",
+      "url": "https://lifestyle.successxl.com/story/974733/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Times-Gazette",
+      "url": "https://www.times-gazette.com/press-release/story/137476/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "UK Uncut",
+      "url": "https://lifestyle.ukuncut.org.uk/story/900432/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Wisconsin State Farmer",
+      "url": "https://www.wisfarmer.com/press-release/story/140907/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 55,
+      "source": "host_name"
+    },
+    {
+      "name": "Agree",
+      "url": "https://lifestyle.agree.net/story/451736/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Alliance Review",
+      "url": "https://www.the-review.com/press-release/story/141356/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Awesome",
+      "url": "https://lifestyle.awe.sm/story/472193/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Brief Mobile",
+      "url": "https://lifestyle.briefmobile.com/story/976524/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Daily Reporter",
+      "url": "https://www.thedailyreporter.com/press-release/story/140654/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Ellwood City Ledger",
+      "url": "https://www.ellwoodcityledger.com/press-release/story/163108/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Good Decisions",
+      "url": "https://lifestyle.gooddecisions.com/story/952785/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Lamora",
+      "url": "https://lifestyle.lamora.net/story/989934/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "News Hub",
+      "url": "https://lifestyle.the-newshub.com/story/965429/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Only Golf News",
+      "url": "https://lifestyle.onlygolfnews.com/story/964145/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Telegraph & Messenger",
+      "url": "https://www.tmnews.com/press-release/story/141347/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 54,
+      "source": "host_name"
+    },
+    {
+      "name": "Bosses Mag",
+      "url": "https://lifestyle.bossesmag.com/story/931767/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "ePubZone",
+      "url": "https://lifestyle.epubzone.org/story/960927/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Microcap",
+      "url": "https://lifestyle.microcapnews.com/story/989702/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Realie",
+      "url": "https://lifestyle.realie.org/story/989120/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Social Matic",
+      "url": "https://lifestyle.social-matic.com/story/975564/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Socials Insider",
+      "url": "https://lifestyle.socialsinsider.com/story/965084/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Soo Evening News",
+      "url": "https://www.sooeveningnews.com/press-release/story/140922/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Source Fed",
+      "url": "https://lifestyle.sourcefed.com/story/978793/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Sturgis Journal",
+      "url": "https://www.sturgisjournal.com/press-release/story/137414/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Top Hustler",
+      "url": "https://lifestyle.tophustler.com/story/971908/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "US Features",
+      "url": "https://lifestyle.usfeatures.com/story/966163/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "Windstream",
+      "url": "http://windstream.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 53,
+      "source": "host_name"
+    },
+    {
+      "name": "GoPreneurs",
+      "url": "https://lifestyle.gopreneurs.com/story/986314/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Humane Network",
+      "url": "https://lifestyle.humane.net/story/986090/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Next Mentors",
+      "url": "https://lifestyle.nextmentors.com/story/932786/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "NYCT",
+      "url": "https://lifestyle.thenyctimes.com/story/971988/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Reporter-Times",
+      "url": "https://www.reporter-times.com/press-release/story/140665/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Successful Daily",
+      "url": "https://lifestyle.successfuldaily.com/story/974310/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Times Telegram",
+      "url": "https://www.timestelegram.com/press-release/story/140860/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Travels HQ",
+      "url": "https://lifestyle.travelshq.com/story/878285/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "UBI Interactive",
+      "url": "https://lifestyle.ubi-interactive.com/story/980460/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 52,
+      "source": "host_name"
+    },
+    {
+      "name": "Emphas",
+      "url": "https://lifestyle.emphas.is/story/958231/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 51,
+      "source": "host_name"
+    },
+    {
+      "name": "La Tabloid",
+      "url": "https://lifestyle.latabloid.com/story/877635/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 51,
+      "source": "host_name"
+    },
+    {
+      "name": "Pluralist",
+      "url": "https://lifestyle.pluralist.com/story/990244/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 51,
+      "source": "host_name"
+    },
+    {
+      "name": "The Gleaner",
+      "url": "https://www.thegleaner.com/press-release/story/137776/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 51,
+      "source": "host_name"
+    },
+    {
+      "name": "Weekly Citizen",
+      "url": "https://www.weeklycitizen.com/press-release/story/137331/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 51,
+      "source": "host_name"
+    },
+    {
+      "name": "Dishh",
+      "url": "https://lifestyle.thedishh.com/story/900263/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "LuxeDB",
+      "url": "https://lifestyle.luxedb.com/story/957100/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "Review Atlas",
+      "url": "https://www.reviewatlas.com/press-release/story/140202/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "Servers Free",
+      "url": "https://lifestyle.serversfree.com/story/987341/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "Utv",
+      "url": "https://lifestyle.utv.ie/story/939839/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "Women Conference",
+      "url": "https://lifestyle.womensconference.org/story/984918/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 50,
+      "source": "host_name"
+    },
+    {
+      "name": "Blackberry Empire",
+      "url": "https://lifestyle.blackberryempire.com/story/445173/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 49,
+      "source": "host_name"
+    },
+    {
+      "name": "In Entertainment",
+      "url": "https://lifestyle.inentertainment.co.uk/story/989012/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 49,
+      "source": "host_name"
+    },
+    {
+      "name": "Star Courier",
+      "url": "https://www.starcourier.com/press-release/story/142127/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 49,
+      "source": "host_name"
+    },
+    {
+      "name": "BlackStone Valley's Call & Times",
+      "url": "https://business.woonsocketcall.com/woonsocketcall/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 48,
+      "source": "host_name"
+    },
+    {
+      "name": "CenturyLink",
+      "url": "http://centurylink.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 48,
+      "source": "host_name"
+    },
+    {
+      "name": "Independent MK Lifestyle",
+      "url": "https://lifestyle.independent.mk/story/899565/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 48,
+      "source": "host_name"
+    },
+    {
+      "name": "Acting Auditions",
+      "url": "https://lifestyle.acting-auditions.org/story/449655/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Antelope Valley Press",
+      "url": "https://avpress.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Appeal-Democrat",
+      "url": "https://appeal-democrat.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Axcess News",
+      "url": "https://lifestyle.axcessnews.com/story/475557/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Capitol Hill Times",
+      "url": "https://lifestyle.capitolhilltimes.com/story/982832/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Daily Haze",
+      "url": "https://lifestyle.thedailyhaze.com/story/974581/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Fox 47",
+      "url": "https://fox47.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "FWNBC",
+      "url": "https://fwnbc.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Hannibal Courier-Post",
+      "url": "https://hannibal.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Imperial Valley Press",
+      "url": "https://ivpressonline.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "KBJR",
+      "url": "https://kbjr.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "KTIV",
+      "url": "https://ktiv.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "KTTC",
+      "url": "https://kttc.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "KVOA",
+      "url": "https://kvoa.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "KWWL",
+      "url": "https://kwwl.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Lodi News-Sentinel",
+      "url": "https://lodinews.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "M Trust Company",
+      "url": "https://mtrustcompany.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Passionateaboutfood",
+      "url": "https://lifestyle.passionateaboutfood.net/story/984114/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Quincy Herald-Whig",
+      "url": "https://whig.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Recorder",
+      "url": "https://recorderonline.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Santa Maria Times",
+      "url": "https://santamariatimes.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "SDG News Group",
+      "url": "https://sdgnewsgroup.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "TH News",
+      "url": "https://thnews.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "The Bakersfield Californian",
+      "url": "https://bakersfield.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "The Sun Chronicle",
+      "url": "https://thesunchronicle.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "The Week",
+      "url": "https://week.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "The Westerly Sun",
+      "url": "https://thewesterlysun.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Union Democrat",
+      "url": "https://uniondemocrat.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WAOW",
+      "url": "https://waow.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WBNG",
+      "url": "https://wbng.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WGEM",
+      "url": "https://wgem.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WKOW",
+      "url": "https://wkow.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WQOW",
+      "url": "https://wqow.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WREX",
+      "url": "https://wrex.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WSIL",
+      "url": "https://wsil.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WVVA",
+      "url": "https://wvva.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WXOW",
+      "url": "https://wxow.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "WYOW",
+      "url": "https://wyow.marketminute.com/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 47,
+      "source": "host_name"
+    },
+    {
+      "name": "Washington Guardian",
+      "url": "https://lifestyle.washingtonguardian.com/story/991054/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 46,
+      "source": "host_name"
+    },
+    {
+      "name": "Gardner News",
+      "url": "https://www.thegardnernews.com/press-release/story/140794/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 45,
+      "source": "host_name"
+    },
+    {
+      "name": "Houston News Today",
+      "url": "https://lifestyle.houstonnewstoday.com/story/987382/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 45,
+      "source": "host_name"
+    },
+    {
+      "name": "Long Island Report",
+      "url": "https://lifestyle.longislandreport.org/story/964709/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 45,
+      "source": "host_name"
+    },
+    {
+      "name": "Mmminimal",
+      "url": "https://lifestyle.mmminimal.com/story/988361/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 44,
+      "source": "host_name"
+    },
+    {
+      "name": "Bocaraton City Online",
+      "url": "https://lifestyle.bocaratoncityonline.com/story/505866/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 43,
+      "source": "host_name"
+    },
+    {
+      "name": "Brights Future",
+      "url": "https://lifestyle.brightsfuture.com/story/982645/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 43,
+      "source": "host_name"
+    },
+    {
+      "name": "Bomb Report",
+      "url": "https://lifestyle.bombreport.com/story/466656/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "East MN News",
+      "url": "https://lifestyle.eastmnweeklynews.com/story/985098/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "Idea Wins",
+      "url": "https://lifestyle.ideawins.com/story/978530/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "Mass News",
+      "url": "https://lifestyle.massnews.com/story/986594/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "Spencer Evening World",
+      "url": "https://www.spencereveningworld.com/press-release/story/142233/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "Street Register",
+      "url": "https://lifestyle.streetregister.com/story/974009/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "The Pilot News",
+      "url": "https://business.thepilotnews.com/thepilotnews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 42,
+      "source": "host_name"
+    },
+    {
+      "name": "AM-News (business)",
+      "url": "https://business.am-news.com/am-news/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 41,
+      "source": "host_name"
+    },
+    {
+      "name": "Article Rich",
+      "url": "https://lifestyle.articlerich.com/story/470112/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 41,
+      "source": "host_name"
+    },
+    {
+      "name": "Faith Family America",
+      "url": "https://lifestyle.faithfamilyamerica.com/story/942167/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 41,
+      "source": "host_name"
+    },
+    {
+      "name": "GVTC",
+      "url": "http://my.gvtc.com/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 41,
+      "source": "host_name"
+    },
+    {
+      "name": "Point News",
+      "url": "https://lifestyle.thepointnews.com/story/979111/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 41,
+      "source": "host_name"
+    },
+    {
+      "name": "Bizsense",
+      "url": "https://lifestyle.small-bizsense.com/story/961831/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 40,
+      "source": "host_name"
+    },
+    {
+      "name": "Search and News",
+      "url": "http://searchandnews.com/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 40,
+      "source": "host_name"
+    },
+    {
+      "name": "Wapakoneta Daily News",
+      "url": "https://business.wapakdailynews.com/wapakdailynews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 40,
+      "source": "host_name"
+    },
+    {
+      "name": "Business Insurance",
+      "url": "https://index.businessinsurance.com/businessinsurance/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 39,
+      "source": "host_name"
+    },
+    {
+      "name": "One by Four",
+      "url": "https://lifestyle.onebyfourstudio.com/story/928991/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 39,
+      "source": "host_name"
+    },
+    {
+      "name": "The Evening Leader",
+      "url": "https://business.theeveningleader.com/theeveningleader/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 39,
+      "source": "host_name"
+    },
+    {
+      "name": "Valley City Times Record",
+      "url": "https://business.times-online.com/times-online/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 39,
+      "source": "host_name"
+    },
+    {
+      "name": "WOW Internet",
+      "url": "http://wowway.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 39,
+      "source": "host_name"
+    },
+    {
+      "name": "Ribbon",
+      "url": "https://lifestyle.ribbon.co/story/925147/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 38,
+      "source": "host_name"
+    },
+    {
+      "name": "Rogue Mag",
+      "url": "https://lifestyle.theroguemag.com/story/921437/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 38,
+      "source": "host_name"
+    },
+    {
+      "name": "Brickvest",
+      "url": "https://lifestyle.brickvest.com/story/919854/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 37,
+      "source": "host_name"
+    },
+    {
+      "name": "Good Sciencing",
+      "url": "https://lifestyle.goodsciencing.com/story/961012/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 37,
+      "source": "host_name"
+    },
+    {
+      "name": "Keto Dash",
+      "url": "https://lifestyle.ketodash.com/story/860099/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 37,
+      "source": "host_name"
+    },
+    {
+      "name": "Newport Daily Express",
+      "url": "http://business.newportvermontdailyexpress.com/newportvermontdailyexpress/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 37,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Atlanta",
+      "url": "https://atlanta.newsnetmedia.com/story/418522/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Augusta",
+      "url": "https://augusta.newsnetmedia.com/story/560076/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Austin",
+      "url": "https://austin.newsnetmedia.com/story/560254/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Boise",
+      "url": "https://boise.newsnetmedia.com/story/560213/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Buffalo",
+      "url": "https://buffalo.newsnetmedia.com/story/559316/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Columbia",
+      "url": "https://columbia.newsnetmedia.com/story/561613/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Columbus",
+      "url": "https://columbus.newsnetmedia.com/story/559687/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Detroit",
+      "url": "https://detroit.newsnetmedia.com/story/558154/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Fresno",
+      "url": "https://fresno.newsnetmedia.com/story/560110/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Hawaii",
+      "url": "https://hawaii.newsnetmedia.com/story/560886/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Jacksonville",
+      "url": "https://jacksonville.newsnetmedia.com/story/550008/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Las Vegas",
+      "url": "https://lasvegas.newsnetmedia.com/story/552971/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Los Angeles",
+      "url": "https://losangeles.newsnetmedia.com/story/552564/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Michigan",
+      "url": "https://michigan.newsnetmedia.com/story/553841/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Minneapolis",
+      "url": "https://minneapolis.newsnetmedia.com/story/550198/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Monterey",
+      "url": "https://monterey.newsnetmedia.com/story/553823/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Myrtle Beach",
+      "url": "https://myrtlebeach.newsnetmedia.com/story/551567/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Nashville",
+      "url": "https://nashville.newsnetmedia.com/story/552483/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Norfolk",
+      "url": "https://norfolk.newsnetmedia.com/story/553593/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Odessa",
+      "url": "https://odessa.newsnetmedia.com/story/552287/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Orlando",
+      "url": "https://orlando.newsnetmedia.com/story/548022/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Pittsburgh",
+      "url": "https://pittsburgh.newsnetmedia.com/story/549722/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Portland",
+      "url": "https://portland.newsnetmedia.com/story/549387/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Quincy",
+      "url": "https://quincy.newsnetmedia.com/story/550174/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Sacramento",
+      "url": "https://sacramento.newsnetmedia.com/story/551492/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Salt Lake City",
+      "url": "https://saltlakecity.newsnetmedia.com/story/552251/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet San Antonio",
+      "url": "https://sanantonio.newsnetmedia.com/story/542665/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Sioux Falls",
+      "url": "https://siouxfalls.newsnetmedia.com/story/551884/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Sports",
+      "url": "https://sports.newsnetmedia.com/story/553352/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Tampa",
+      "url": "https://tampa.newsnetmedia.com/story/552578/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "NewsNet Waco",
+      "url": "https://waco.newsnetmedia.com/story/554287/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "Sherbrooke Record",
+      "url": "https://business.sherbrookerecord.com/sherbrookerecord/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 36,
+      "source": "host_name"
+    },
+    {
+      "name": "Men Style",
+      "url": "https://lifestyle.menstyle1.com/story/991293/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 35,
+      "source": "host_name"
+    },
+    {
+      "name": "Spiritual Quotes",
+      "url": "https://lifestyle.spiritual-quotes.org/story/446935/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 35,
+      "source": "host_name"
+    },
+    {
+      "name": "Armstrong",
+      "url": "http://armstrongmywire.com/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 34,
+      "source": "host_name"
+    },
+    {
+      "name": "Career Savvy",
+      "url": "https://lifestyle.careersavvy.co.uk/story/997518/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 34,
+      "source": "host_name"
+    },
+    {
+      "name": "Rogue",
+      "url": "https://lifestyle.rogueimc.org/story/955041/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 33,
+      "source": "host_name"
+    },
+    {
+      "name": "The Antlers American",
+      "url": "https://business.theantlersamerican.com/theantlersamerican/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 33,
+      "source": "host_name"
+    },
+    {
+      "name": "Sausalito News",
+      "url": "http://finance.sausalito.com/camedia.sausalito/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 32,
+      "source": "host_name"
+    },
+    {
+      "name": "Tv Show Auditions",
+      "url": "https://lifestyle.tvshowauditions.info/story/970307/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 31,
+      "source": "host_name"
+    },
+    {
+      "name": "Gamezon",
+      "url": "https://lifestyle.gamezon.net/story/951230/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 30,
+      "source": "host_name"
+    },
+    {
+      "name": "Glimpse",
+      "url": "https://lifestyle.theglimpse.com/story/983125/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 30,
+      "source": "host_name"
+    },
+    {
+      "name": "Idea Crossing",
+      "url": "https://lifestyle.ideacrossing.org/story/993305/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 29,
+      "source": "host_name"
+    },
+    {
+      "name": "All Podcasts",
+      "url": "https://lifestyle.allpodcasts.com/story/462257/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 28,
+      "source": "host_name"
+    },
+    {
+      "name": "Blerp",
+      "url": "https://lifestyle.blerrp.com/story/447437/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 28,
+      "source": "host_name"
+    },
+    {
+      "name": "Glendenning Grain & Soil",
+      "url": "http://www.glendenninggrainandsoil.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 28,
+      "source": "host_name"
+    },
+    {
+      "name": "Men Under Microscope",
+      "url": "https://lifestyle.menundermicroscope.com/story/417808/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 28,
+      "source": "host_name"
+    },
+    {
+      "name": "Smart Talk",
+      "url": "https://lifestyle.smarttalksuccess.com/story/953550/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 28,
+      "source": "host_name"
+    },
+    {
+      "name": "Clarity Pointe",
+      "url": "https://lifestyle.claritypointe.com/story/908537/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 26,
+      "source": "host_name"
+    },
+    {
+      "name": "FictionTalk",
+      "url": "https://lifestyle.fictiontalk.com/story/963774/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 26,
+      "source": "host_name"
+    },
+    {
+      "name": "Hawaiian Telcom",
+      "url": "http://hawaiiantel.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 26,
+      "source": "host_name"
+    },
+    {
+      "name": "KOTA Radio",
+      "url": "https://lifestyle.kotaradio.com/story/549713/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 26,
+      "source": "host_name"
+    },
+    {
+      "name": "Tweeter",
+      "url": "https://lifestyle.tweeternet.com/story/978839/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 26,
+      "source": "host_name"
+    },
+    {
+      "name": "Deer Park Tribune",
+      "url": "https://business.dptribune.com/dptribune/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 25,
+      "source": "host_name"
+    },
+    {
+      "name": "Premium Feed & Grain",
+      "url": "http://www.premiumfeedgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 25,
+      "source": "host_name"
+    },
+    {
+      "name": "Market Research",
+      "url": "https://lifestyle.marketresearchjournals.com/story/992162/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 24,
+      "source": "host_name"
+    },
+    {
+      "name": "Carnegie Coop",
+      "url": "http://www.carnegiecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 23,
+      "source": "host_name"
+    },
+    {
+      "name": "Forks to Feet",
+      "url": "https://lifestyle.forkstofeet.com/story/1000717/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 22,
+      "source": "host_name"
+    },
+    {
+      "name": "IM One",
+      "url": "https://lifestyle.imone2015.com/story/911056/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 22,
+      "source": "host_name"
+    },
+    {
+      "name": "Media Training",
+      "url": "https://lifestyle.mediatrainingforceos.com/story/987938/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 22,
+      "source": "host_name"
+    },
+    {
+      "name": "Uvalde Coop",
+      "url": "http://www.uvaldecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 22,
+      "source": "host_name"
+    },
+    {
+      "name": "Schramm Feedlot",
+      "url": "http://www.schrammfeedlot.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 21,
+      "source": "host_name"
+    },
+    {
+      "name": "Turner Seed",
+      "url": "http://www.turnerseedinc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 21,
+      "source": "host_name"
+    },
+    {
+      "name": "Westco Coop",
+      "url": "http://www.westco.coop/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 21,
+      "source": "host_name"
+    },
+    {
+      "name": "Bloomington Livestock",
+      "url": "http://www.bloomingtonlivestock.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "Caina Grain",
+      "url": "http://www.cainagra.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "SCFM",
+      "url": "http://www.scfmco.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "Snyder Farmers Coop",
+      "url": "http://www.snyderfarmerscoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "TC Grain",
+      "url": "http://www.tcgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "Waitt Grain",
+      "url": "http://waittgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 20,
+      "source": "host_name"
+    },
+    {
+      "name": "Folsom Local News",
+      "url": "https://lifestyle.folsomlocalnews.com/story/982409/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Little Sioux Corn Processors",
+      "url": "http://www.littlesiouxcornprocessors.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Parrish Shop",
+      "url": "http://parrishshop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Petersen Custom Farming",
+      "url": "http://www.petersencustomfarming.ca//markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Sowega Cotton",
+      "url": "http://www.sowegacotton.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Stone Station Elevator",
+      "url": "http://www.stonestationelevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "The Insurance Shop",
+      "url": "http://www.theinsuranceshopinc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 19,
+      "source": "host_name"
+    },
+    {
+      "name": "Altafiber",
+      "url": "http://altafiber.net/finance/category/press/article/pressadvantagesyn-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Austin Top 50",
+      "url": "https://lifestyle.austintop50.com/story/456523/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Bar-G",
+      "url": "http://www.bar-g.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Buyers Desire",
+      "url": "https://lifestyle.buyersdesire.org/story/984296/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "CGS",
+      "url": "http://www.cgsmc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Clientim",
+      "url": "https://lifestyle.clientim.com/story/923564/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Operation Infinite Justice",
+      "url": "https://lifestyle.operation-infinitejustice.org/story/443081/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Stickney Elevator",
+      "url": "http://www.stickneyelevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Stoneybrook Elevators",
+      "url": "http://www.stoneybrookelevators.ca/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Tremont Coop",
+      "url": "http://www.tremont.coop/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Triple M Farms",
+      "url": "http://www.triplemfarms.us/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Walters Coop",
+      "url": "http://www.walterscoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 18,
+      "source": "host_name"
+    },
+    {
+      "name": "Easy House Remodeling",
+      "url": "https://lifestyle.easyhouseremodeling.com/story/897310/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "Farmers Coop Elevator",
+      "url": "http://www.farmerscoopelevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "Middletown Life Magazine",
+      "url": "https://lifestyle.middletownlifemagazine.com/story/804135/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "Strauss Feed Mill",
+      "url": "http://www.straussfeedmill.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "The Farmers Elevator",
+      "url": "http://www.thefarmerselevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "Turon Mill",
+      "url": "http://www.turonmill.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 17,
+      "source": "host_name"
+    },
+    {
+      "name": "Agrowstar",
+      "url": "http://www.agrowstar.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 16,
+      "source": "host_name"
+    },
+    {
+      "name": "CFX Magazine",
+      "url": "https://lifestyle.cfxmagazine.com/story/983188/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 16,
+      "source": "host_name"
+    },
+    {
+      "name": "Lang Farms",
+      "url": "http://www.langfarms.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 16,
+      "source": "host_name"
+    },
+    {
+      "name": "Paraskevas",
+      "url": "https://lifestyle.paraskevas.net/story/983443/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 16,
+      "source": "host_name"
+    },
+    {
+      "name": "Silver Edge Coop",
+      "url": "http://www.silveredgecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 16,
+      "source": "host_name"
+    },
+    {
+      "name": "Ag Best",
+      "url": "http://www.agbest.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Annika Bansal",
+      "url": "https://lifestyle.annikabansal.com/story/461637/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Bolt Marketing",
+      "url": "http://www.boltmarketingllc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Business Planet",
+      "url": "https://lifestyle.ebusinessplanet.com/story/884358/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "My Eagle Country",
+      "url": "https://lifestyle.myeaglecountry.com/story/548114/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Offerle Coop",
+      "url": "http://www.offerle.coop/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Oklahoma Land Run Coop",
+      "url": "http://www.oklandruncoop.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Recent Legal News",
+      "url": "https://lifestyle.recentlegalnews.com/story/894531/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Remsen Coop",
+      "url": "http://www.remsencoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Sargeant Grain",
+      "url": "http://www.sargeantgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Top Travel Trends",
+      "url": "https://lifestyle.toptraveltrends.com/story/919629/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 15,
+      "source": "host_name"
+    },
+    {
+      "name": "Ag Rail",
+      "url": "http://www.agrail.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Augusta Farmers",
+      "url": "http://www.augustafarmers.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Beardsley Farmers Elevator",
+      "url": "http://www.beardsleyfe.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Bieri Grain",
+      "url": "http://www.bierigrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "BRT Ag and Turf",
+      "url": "http://www.brtagandturf.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Cherokee Gin",
+      "url": "http://www.cherokeegin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Dacoma Coop",
+      "url": "http://www.dacomacoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Farmers Grain Elevator",
+      "url": "http://www.farmersgrainelevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Green City Livestock",
+      "url": "http://www.greencitylivestock.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "James Valley Grain",
+      "url": "http://www.jamesvalleygrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Keller Grain",
+      "url": "http://www.kellergrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "LeRoy Coop",
+      "url": "http://www.leroycoop.coop/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "LFD Farmers",
+      "url": "http://www.lfdfarmers.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "MCIN",
+      "url": "http://www.mcin.biz/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Melrose Farm Service",
+      "url": "http://www.melrosefarmservice.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "PCE Floydada",
+      "url": "http://www.pcefloydada.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Pet Savvy",
+      "url": "https://lifestyle.getpetsavvy.com/story/960966/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Pro Ag Farmers",
+      "url": "http://www.proagfarmers.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Q92.3",
+      "url": "https://lifestyle.q923radio.com/story/547848/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Ringneck Energy",
+      "url": "http://www.ringneckenergy.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Sand B Cattle",
+      "url": "http://www.sandbcattle.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 14,
+      "source": "host_name"
+    },
+    {
+      "name": "Ag Southwest",
+      "url": "http://www.agsouthwest.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Ambickley",
+      "url": "http://www.ambickley.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Arabi Gin",
+      "url": "http://www.arabigin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Butterfield Grain",
+      "url": "http://www.butterfieldgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Central Plains Trading",
+      "url": "http://www.centralplainstrading.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Coop Services",
+      "url": "http://www.coopservicesinc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Dixon Gin",
+      "url": "http://www.dixongin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Dummers Grain",
+      "url": "http://www.dummersgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Duovolt Art",
+      "url": "https://lifestyle.duovoltart.com/story/960217/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Edon Farmers Coop",
+      "url": "http://www.edonfarmerscoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Eldorado Coop",
+      "url": "http://eldoradocoop.yourgin.com//markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Gerald Grain",
+      "url": "http://www.geraldgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "HB Specialties",
+      "url": "http://www.hbspecialties.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Hungry Bear",
+      "url": "https://lifestyle.hungrybear.net/story/926276/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Lubbock Feeders",
+      "url": "http://www.lubbockfeeders.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Mulvane Coop",
+      "url": "http://www.mulvanecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Presby Camp",
+      "url": "https://lifestyle.presbycamp.org/story/986855/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "SH Commodities",
+      "url": "http://www.shcommodities.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 13,
+      "source": "host_name"
+    },
+    {
+      "name": "Banner Coop",
+      "url": "http://www.bannercoop.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Cameron Grain",
+      "url": "http://www.camerongrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Claremar Farms",
+      "url": "http://www.claremarfarms.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Doerun Gin",
+      "url": "http://www.doerungin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Dumas Coop",
+      "url": "http://www.dumascoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Go Coop OK",
+      "url": "http://www.gocoopok.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Gowanlea",
+      "url": "http://www.gowanlea.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Jlyn Grains",
+      "url": "http://www.jlyngrains.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "McCune Coop",
+      "url": "http://www.mccunecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Mobley Gin",
+      "url": "http://www.mobleygin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Montrose Grain",
+      "url": "http://www.montrosegrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Pilot Grove Coop",
+      "url": "http://www.pilotgrovecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Seven Rivers Livestock",
+      "url": "http://www.7riverslivestock.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "Trotter Inc",
+      "url": "http://www.trotterinc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 12,
+      "source": "host_name"
+    },
+    {
+      "name": "CDR Farms",
+      "url": "http://www.cdrfarmsllc.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "CFG Ag",
+      "url": "http://www.cfgag.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "Farmers Exchange Coop",
+      "url": "http://www.farmersexchangecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "Hull Feed",
+      "url": "http://www.hullfeed.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "Investors ICS",
+      "url": "http://www.investorsics.net/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "Rolling Acres Grain",
+      "url": "http://www.rollingacresgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 11,
+      "source": "host_name"
+    },
+    {
+      "name": "Anton Coop",
+      "url": "http://www.antoncoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Baret News",
+      "url": "https://lifestyle.baretnews.com/story/455034/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Craig Grain",
+      "url": "http://www.craiggrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Dietfitnessforall",
+      "url": "https://lifestyle.dietfitnessforall.com/story/879013/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Doon Elevator",
+      "url": "http://www.doonelevator.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Les Young Farms",
+      "url": "http://www.lesyoungfarms.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Mid Valley Cotton Growers",
+      "url": "http://www.midvalleycottongrowers.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Punkin Center Gin",
+      "url": "http://www.punkincentergin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "Rolling Hills Gin",
+      "url": "http://www.rollinghillsgin.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "World of Video Gaming",
+      "url": "https://lifestyle.worldofvideogaming.com/story/446583/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 10,
+      "source": "host_name"
+    },
+    {
+      "name": "All 80s Z106.3",
+      "url": "https://lifestyle.all80sz1063.com/story/548692/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 9,
+      "source": "host_name"
+    },
+    {
+      "name": "Flored Champagne",
+      "url": "https://lifestyle.floredechampagne.com/story/906960/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 9,
+      "source": "host_name"
+    },
+    {
+      "name": "Morganville Coop",
+      "url": "http://www.morganvillecoop.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 9,
+      "source": "host_name"
+    },
+    {
+      "name": "UC Connection",
+      "url": "https://lifestyle.ucconnection.org/story/937260/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 9,
+      "source": "host_name"
+    },
+    {
+      "name": "Burlington OK",
+      "url": "http://www.burlingtonok.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 8,
+      "source": "host_name"
+    },
+    {
+      "name": "Judge Farms",
+      "url": "http://www.judgefarms.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 8,
+      "source": "host_name"
+    },
+    {
+      "name": "Flatlands Grain",
+      "url": "http://www.flatlandsgrain.com/markets/stocks.php?article=pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": 7,
+      "source": "host_name"
+    },
+    {
+      "name": "Xbode",
+      "url": "https://lifestyle.xbode.org/story/966251/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": 7,
+      "source": "host_name"
+    },
+    {
+      "name": "anchorage.newsnetmedia.com",
+      "url": "https://anchorage.newsnetmedia.com/story/549652/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "app.meltwater.com",
+      "url": "https://app.meltwater.com/a/monitor/9fd2bb61-9abf-4e73-89f0-71a0dddc22c7",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "farmforum.net",
+      "url": "https://www.farmforum.net/press-release/story/163737/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "hillsdale.net",
+      "url": "https://www.hillsdale.net/press-release/story/182987/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.adriennemonson.com",
+      "url": "https://lifestyle.adriennemonson.com/story/454229/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.baltimorenewsjournal.com",
+      "url": "https://lifestyle.baltimorenewsjournal.com/story/440719/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.childcarepartnerships.org",
+      "url": "https://lifestyle.childcarepartnerships.org/story/557048/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.entreprenerd.net",
+      "url": "https://lifestyle.entreprenerd.net/story/594455/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.etopical.com",
+      "url": "https://lifestyle.etopical.com/story/448746/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.filmtelevisionauditions.com",
+      "url": "https://lifestyle.filmtelevisionauditions.com/story/444770/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.loopbiz.com",
+      "url": "https://lifestyle.loopbiz.com/story/454690/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.mauisky.com",
+      "url": "https://lifestyle.mauisky.com/story/447833/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.militaryparenting.org",
+      "url": "https://lifestyle.militaryparenting.org/story/553806/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.nblaz.com",
+      "url": "https://lifestyle.nblaz.com/story/448230/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.newsblaze.in",
+      "url": "https://lifestyle.newsblaze.in/story/453990/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.quebecnewstribune.com",
+      "url": "https://lifestyle.quebecnewstribune.com/story/442974/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.reipet.com",
+      "url": "https://lifestyle.reipet.com/story/447837/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.roboearth.org",
+      "url": "https://lifestyle.roboearth.org/story/445512/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.rushprnews.com",
+      "url": "https://lifestyle.rushprnews.com/story/446452/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.sharism.org",
+      "url": "https://lifestyle.sharism.org/story/444967/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.spaziotribu.org",
+      "url": "https://lifestyle.spaziotribu.org/story/550751/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.storytellingco.com",
+      "url": "https://lifestyle.storytellingco.com/story/453813/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.thegreatnews.com",
+      "url": "https://lifestyle.thegreatnews.com/story/444632/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.therapybutbetter.com",
+      "url": "https://lifestyle.therapybutbetter.com/story/453102/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.topglobe.news",
+      "url": "https://lifestyle.topglobe.news/story/446499/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.trymentalwellness.com",
+      "url": "https://lifestyle.trymentalwellness.com/story/452765/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "lifestyle.webehoney.com",
+      "url": "https://lifestyle.webehoney.com/story/447741/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "louisville.newsnetmedia.com",
+      "url": "https://louisville.newsnetmedia.com/story/540276/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "http://markets.financialcontent.com/bentoncourier/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "http://markets.financialcontent.com/borgernewsherald/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "http://markets.financialcontent.com/guymondailyherald/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "http://markets.financialcontent.com/malvern-online/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "http://markets.financialcontent.com/pawtuckettimes/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/bigspringherald/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/dailytimesleader/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/decaturdailydemocrat/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/inyoregister/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/kanerepublican/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/mammothtimes/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/minstercommunitypost/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/observernewsonline/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/poteaudailynews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/punxsutawneyspirit/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/ricentral/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/ridgwayrecord/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/smdailypress/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/starkvilledailynews/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "markets.financialcontent.com",
+      "url": "https://markets.financialcontent.com/sweetwaterreporter/article/pressadvantage-2026-11-3-brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyagecom",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "palmsprings.newsnetmedia.com",
+      "url": "https://palmsprings.newsnetmedia.com/story/542564/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "santabarbara.newsnetmedia.com",
+      "url": "https://santabarbara.newsnetmedia.com/story/551590/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsabilene.com",
+      "url": "https://signalnewsabilene.com/press-releases/98920/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsalbanyga.com",
+      "url": "https://signalnewsalbanyga.com/press-releases/98754/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsalbanyny.com",
+      "url": "https://signalnewsalbanyny.com/press-releases/146214/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsalbuquerque.com",
+      "url": "https://signalnewsalbuquerque.com/press-releases/146362/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsalexandriala.com",
+      "url": "https://signalnewsalexandriala.com/press-releases/97800/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsamarillo.com",
+      "url": "https://signalnewsamarillo.com/press-releases/100261/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsanchorage.com",
+      "url": "https://signalnewsanchorage.com/press-releases/100162/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsatlanta.com",
+      "url": "https://signalnewsatlanta.com/press-releases/190656/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsaugusta.com",
+      "url": "https://signalnewsaugusta.com/press-releases/99936/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsaustin.com",
+      "url": "https://signalnewsaustin.com/press-releases/170716/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbakersfield.com",
+      "url": "https://signalnewsbakersfield.com/press-releases/100458/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbaltimore.com",
+      "url": "https://signalnewsbaltimore.com/press-releases/169485/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbatonrouge.com",
+      "url": "https://signalnewsbatonrouge.com/press-releases/41994/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbeaumont.com",
+      "url": "https://signalnewsbeaumont.com/press-releases/98297/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbend.com",
+      "url": "https://signalnewsbend.com/press-releases/99523/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbillings.com",
+      "url": "https://signalnewsbillings.com/press-releases/100089/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbiloxi.com",
+      "url": "https://signalnewsbiloxi.com/press-releases/99615/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbinghamton.com",
+      "url": "https://signalnewsbinghamton.com/press-releases/99695/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbirmingham.com",
+      "url": "https://signalnewsbirmingham.com/press-releases/148230/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbluefield.com",
+      "url": "https://signalnewsbluefield.com/press-releases/97563/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsboise.com",
+      "url": "https://signalnewsboise.com/press-releases/101779/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsboston.com",
+      "url": "https://signalnewsboston.com/press-releases/187136/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbowlinggreen.com",
+      "url": "https://signalnewsbowlinggreen.com/press-releases/99490/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbuffalo.com",
+      "url": "https://signalnewsbuffalo.com/press-releases/147048/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsburlington.com",
+      "url": "https://signalnewsburlington.com/press-releases/100188/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsbutte.com",
+      "url": "https://signalnewsbutte.com/press-releases/98273/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscasper.com",
+      "url": "https://signalnewscasper.com/press-releases/97657/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscedarrapids.com",
+      "url": "https://signalnewscedarrapids.com/press-releases/41419/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewschampaign.com",
+      "url": "https://signalnewschampaign.com/press-releases/100965/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscharlestonsc.com",
+      "url": "https://signalnewscharlestonsc.com/press-releases/101141/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscharlestonwv.com",
+      "url": "https://signalnewscharlestonwv.com/press-releases/101139/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscharlotte.com",
+      "url": "https://signalnewscharlotte.com/press-releases/190327/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscharlottesville.com",
+      "url": "https://signalnewscharlottesville.com/press-releases/99245/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewschattanooga.com",
+      "url": "https://signalnewschattanooga.com/press-releases/101720/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscheyenne.com",
+      "url": "https://signalnewscheyenne.com/press-releases/97093/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewschicago.com",
+      "url": "https://signalnewschicago.com/press-releases/190041/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewschico.com",
+      "url": "https://signalnewschico.com/press-releases/99190/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscincinnati.com",
+      "url": "https://signalnewscincinnati.com/press-releases/170248/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsclarksburg.com",
+      "url": "https://signalnewsclarksburg.com/press-releases/99229/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscleveland.com",
+      "url": "https://signalnewscleveland.com/press-releases/190193/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscoloradosprings.com",
+      "url": "https://signalnewscoloradosprings.com/press-releases/101297/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscolumbiamo.com",
+      "url": "https://signalnewscolumbiamo.com/press-releases/98937/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscolumbiasc.com",
+      "url": "https://signalnewscolumbiasc.com/press-releases/100899/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscolumbusga.com",
+      "url": "https://signalnewscolumbusga.com/press-releases/98888/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscolumbusms.com",
+      "url": "https://signalnewscolumbusms.com/press-releases/98324/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscolumbusoh.com",
+      "url": "https://signalnewscolumbusoh.com/press-releases/168531/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewscorpuschristi.com",
+      "url": "https://signalnewscorpuschristi.com/press-releases/99804/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdallas.com",
+      "url": "https://signalnewsdallas.com/press-releases/188707/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdavenport.com",
+      "url": "https://signalnewsdavenport.com/press-releases/100665/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdayton.com",
+      "url": "https://signalnewsdayton.com/press-releases/147232/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdenver.com",
+      "url": "https://signalnewsdenver.com/press-releases/190155/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdesmoines.com",
+      "url": "https://signalnewsdesmoines.com/press-releases/145225/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdetroit.com",
+      "url": "https://signalnewsdetroit.com/press-releases/190421/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsdothan.com",
+      "url": "https://signalnewsdothan.com/press-releases/100074/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsduluth.com",
+      "url": "https://signalnewsduluth.com/press-releases/100083/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewselmira.com",
+      "url": "https://signalnewselmira.com/press-releases/99071/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewselpaso.com",
+      "url": "https://signalnewselpaso.com/press-releases/100024/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewserie.com",
+      "url": "https://signalnewserie.com/press-releases/99922/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewseugene.com",
+      "url": "https://signalnewseugene.com/press-releases/100999/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewseureka.com",
+      "url": "https://signalnewseureka.com/press-releases/98646/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsevansville.com",
+      "url": "https://signalnewsevansville.com/press-releases/100080/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsfargo.com",
+      "url": "https://signalnewsfargo.com/press-releases/100447/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsflint.com",
+      "url": "https://signalnewsflint.com/press-releases/101336/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsfortmyers.com",
+      "url": "https://signalnewsfortmyers.com/press-releases/147585/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsfortsmith.com",
+      "url": "https://signalnewsfortsmith.com/press-releases/100086/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsfortwayne.com",
+      "url": "https://signalnewsfortwayne.com/press-releases/100065/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsfresno.com",
+      "url": "https://signalnewsfresno.com/press-releases/145981/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgainesville.com",
+      "url": "https://signalnewsgainesville.com/press-releases/99506/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgrandjunction.com",
+      "url": "https://signalnewsgrandjunction.com/press-releases/97305/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgrandrapids.com",
+      "url": "https://signalnewsgrandrapids.com/press-releases/147817/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreatfalls.com",
+      "url": "https://signalnewsgreatfalls.com/press-releases/98136/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreenbay.com",
+      "url": "https://signalnewsgreenbay.com/press-releases/145637/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreensboro.com",
+      "url": "https://signalnewsgreensboro.com/press-releases/148159/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreenvillenc.com",
+      "url": "https://signalnewsgreenvillenc.com/press-releases/100391/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreenvillesc.com",
+      "url": "https://signalnewsgreenvillesc.com/press-releases/168254/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsgreenwood.com",
+      "url": "https://signalnewsgreenwood.com/press-releases/97391/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsharlingen.com",
+      "url": "https://signalnewsharlingen.com/press-releases/101041/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsharrisburg.com",
+      "url": "https://signalnewsharrisburg.com/press-releases/148762/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsharrisonburg.com",
+      "url": "https://signalnewsharrisonburg.com/press-releases/99072/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewshartford.com",
+      "url": "https://signalnewshartford.com/press-releases/166889/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewshattiesburg.com",
+      "url": "https://signalnewshattiesburg.com/press-releases/99053/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewshonolulu.com",
+      "url": "https://signalnewshonolulu.com/press-releases/146076/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewshouston.com",
+      "url": "https://signalnewshouston.com/press-releases/190958/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewshuntsville.com",
+      "url": "https://signalnewshuntsville.com/press-releases/99866/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsidahofalls.com",
+      "url": "https://signalnewsidahofalls.com/press-releases/99159/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsindianapolis.com",
+      "url": "https://signalnewsindianapolis.com/press-releases/190089/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewskansascity.com",
+      "url": "https://signalnewskansascity.com/press-releases/170991/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsknoxville.com",
+      "url": "https://signalnewsknoxville.com/press-releases/146035/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslacrosse.com",
+      "url": "https://signalnewslacrosse.com/press-releases/86199/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslafayettein.com",
+      "url": "https://signalnewslafayettein.com/press-releases/98130/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslafayettela.com",
+      "url": "https://signalnewslafayettela.com/press-releases/99322/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslakecharles.com",
+      "url": "https://signalnewslakecharles.com/press-releases/99352/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslansing.com",
+      "url": "https://signalnewslansing.com/press-releases/101459/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslaredo.com",
+      "url": "https://signalnewslaredo.com/press-releases/99185/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslasvegas.com",
+      "url": "https://signalnewslasvegas.com/press-releases/149895/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslexington.com",
+      "url": "https://signalnewslexington.com/press-releases/146619/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslima.com",
+      "url": "https://signalnewslima.com/press-releases/98977/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslincoln.com",
+      "url": "https://signalnewslincoln.com/press-releases/99072/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslittlerock.com",
+      "url": "https://signalnewslittlerock.com/press-releases/41569/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslosangeles.com",
+      "url": "https://signalnewslosangeles.com/press-releases/214569/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslouisville.com",
+      "url": "https://signalnewslouisville.com/press-releases/146570/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewslubbock.com",
+      "url": "https://signalnewslubbock.com/press-releases/100133/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmacon.com",
+      "url": "https://signalnewsmacon.com/press-releases/99921/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmadison.com",
+      "url": "https://signalnewsmadison.com/press-releases/102319/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmankato.com",
+      "url": "https://signalnewsmankato.com/press-releases/98421/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmarquette.com",
+      "url": "https://signalnewsmarquette.com/press-releases/99016/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmedford.com",
+      "url": "https://signalnewsmedford.com/press-releases/99060/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmemphis.com",
+      "url": "https://signalnewsmemphis.com/press-releases/146560/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmeridian.com",
+      "url": "https://signalnewsmeridian.com/press-releases/98356/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmiami.com",
+      "url": "https://signalnewsmiami.com/press-releases/244377/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmilwaukee.com",
+      "url": "https://signalnewsmilwaukee.com/press-releases/177009/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsminneapolis.com",
+      "url": "https://signalnewsminneapolis.com/press-releases/189602/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsminot.com",
+      "url": "https://signalnewsminot.com/press-releases/97806/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmissoula.com",
+      "url": "https://signalnewsmissoula.com/press-releases/86745/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmobile.com",
+      "url": "https://signalnewsmobile.com/press-releases/146037/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmonroe.com",
+      "url": "https://signalnewsmonroe.com/press-releases/98366/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmonterey.com",
+      "url": "https://signalnewsmonterey.com/press-releases/99191/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmontgomery.com",
+      "url": "https://signalnewsmontgomery.com/press-releases/98523/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsmyrtlebeach.com",
+      "url": "https://signalnewsmyrtlebeach.com/press-releases/100523/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsnashville.com",
+      "url": "https://signalnewsnashville.com/press-releases/239239/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsneworleans.com",
+      "url": "https://signalnewsneworleans.com/press-releases/146646/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsnewyork.com",
+      "url": "https://signalnewsnewyork.com/press-releases/219597/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsnorfolk.com",
+      "url": "https://signalnewsnorfolk.com/press-releases/148087/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsodessa.com",
+      "url": "https://signalnewsodessa.com/press-releases/99319/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsoklahomacity.com",
+      "url": "https://signalnewsoklahomacity.com/press-releases/148561/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsomaha.com",
+      "url": "https://signalnewsomaha.com/press-releases/101661/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsorlando.com",
+      "url": "https://signalnewsorlando.com/press-releases/187822/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsottumwa.com",
+      "url": "https://signalnewsottumwa.com/press-releases/97825/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewspaducah.com",
+      "url": "https://signalnewspaducah.com/press-releases/100864/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewspalmsprings.com",
+      "url": "https://signalnewspalmsprings.com/press-releases/99126/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewspanamacity.com",
+      "url": "https://signalnewspanamacity.com/press-releases/99888/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsparkersburg.com",
+      "url": "https://signalnewsparkersburg.com/press-releases/97315/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewspeoria.com",
+      "url": "https://signalnewspeoria.com/press-releases/99842/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsphiladelphia.com",
+      "url": "https://signalnewsphiladelphia.com/press-releases/189866/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsphoenix.com",
+      "url": "https://signalnewsphoenix.com/press-releases/189500/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewspittsburgh.com",
+      "url": "https://signalnewspittsburgh.com/press-releases/235595/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsportlandme.com",
+      "url": "https://signalnewsportlandme.com/press-releases/100779/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsportlandor.com",
+      "url": "https://signalnewsportlandor.com/press-releases/190420/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsprovidence.com",
+      "url": "https://signalnewsprovidence.com/press-releases/145984/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsquincy.com",
+      "url": "https://signalnewsquincy.com/press-releases/98729/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsraleigh.com",
+      "url": "https://signalnewsraleigh.com/press-releases/188437/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsrapidcity.com",
+      "url": "https://signalnewsrapidcity.com/press-releases/100199/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsreno.com",
+      "url": "https://signalnewsreno.com/press-releases/101132/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsrichmond.com",
+      "url": "https://signalnewsrichmond.com/press-releases/145912/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsroanoke.com",
+      "url": "https://signalnewsroanoke.com/press-releases/108751/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsrochestermn.com",
+      "url": "https://signalnewsrochestermn.com/press-releases/99300/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsrochesterny.com",
+      "url": "https://signalnewsrochesterny.com/press-releases/101421/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsrockford.com",
+      "url": "https://signalnewsrockford.com/press-releases/98787/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssacramento.com",
+      "url": "https://signalnewssacramento.com/press-releases/187570/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssalisbury.com",
+      "url": "https://signalnewssalisbury.com/press-releases/100352/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssaltlakecity.com",
+      "url": "https://signalnewssaltlakecity.com/press-releases/182136/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssanangelo.com",
+      "url": "https://signalnewssanangelo.com/press-releases/98656/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssanantonio.com",
+      "url": "https://signalnewssanantonio.com/press-releases/170454/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssandiego.com",
+      "url": "https://signalnewssandiego.com/press-releases/173461/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssanfrancisco.com",
+      "url": "https://signalnewssanfrancisco.com/press-releases/189056/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssantabarbara.com",
+      "url": "https://signalnewssantabarbara.com/press-releases/99826/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssavannah.com",
+      "url": "https://signalnewssavannah.com/press-releases/41909/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsseattle.com",
+      "url": "https://signalnewsseattle.com/press-releases/188352/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssherman.com",
+      "url": "https://signalnewssherman.com/press-releases/99017/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsshreveport.com",
+      "url": "https://signalnewsshreveport.com/press-releases/100549/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssiouxcity.com",
+      "url": "https://signalnewssiouxcity.com/press-releases/100328/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssiouxfalls.com",
+      "url": "https://signalnewssiouxfalls.com/press-releases/41429/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssouthbend.com",
+      "url": "https://signalnewssouthbend.com/press-releases/98602/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsspokane.com",
+      "url": "https://signalnewsspokane.com/press-releases/146554/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsspringfieldma.com",
+      "url": "https://signalnewsspringfieldma.com/press-releases/100986/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsspringfieldmo.com",
+      "url": "https://signalnewsspringfieldmo.com/press-releases/97770/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsstlouis.com",
+      "url": "https://signalnewsstlouis.com/press-releases/189823/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewssyracuse.com",
+      "url": "https://signalnewssyracuse.com/press-releases/101920/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstallahassee.com",
+      "url": "https://signalnewstallahassee.com/press-releases/99625/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstampa.com",
+      "url": "https://signalnewstampa.com/press-releases/189399/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsterrehaute.com",
+      "url": "https://signalnewsterrehaute.com/press-releases/100661/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstoledo.com",
+      "url": "https://signalnewstoledo.com/press-releases/101186/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstopeka.com",
+      "url": "https://signalnewstopeka.com/press-releases/100258/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstraversecity.com",
+      "url": "https://signalnewstraversecity.com/press-releases/100197/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstucson.com",
+      "url": "https://signalnewstucson.com/press-releases/145042/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstulsa.com",
+      "url": "https://signalnewstulsa.com/press-releases/146001/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstwinfalls.com",
+      "url": "https://signalnewstwinfalls.com/press-releases/98261/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewstyler.com",
+      "url": "https://signalnewstyler.com/press-releases/99738/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsutica.com",
+      "url": "https://signalnewsutica.com/press-releases/99544/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswaco.com",
+      "url": "https://signalnewswaco.com/press-releases/100772/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswashingtondc.com",
+      "url": "https://signalnewswashingtondc.com/press-releases/187250/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswatertown.com",
+      "url": "https://signalnewswatertown.com/press-releases/99072/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswausau.com",
+      "url": "https://signalnewswausau.com/press-releases/98986/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswestpalmbeach.com",
+      "url": "https://signalnewswestpalmbeach.com/press-releases/148284/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswheeling.com",
+      "url": "https://signalnewswheeling.com/press-releases/98624/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswichita.com",
+      "url": "https://signalnewswichita.com/press-releases/108480/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswichitafalls.com",
+      "url": "https://signalnewswichitafalls.com/press-releases/99470/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswilkesbarre.com",
+      "url": "https://signalnewswilkesbarre.com/press-releases/146236/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewswilmington.com",
+      "url": "https://signalnewswilmington.com/press-releases/99808/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsyakima.com",
+      "url": "https://signalnewsyakima.com/press-releases/99690/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsyoungstown.com",
+      "url": "https://signalnewsyoungstown.com/press-releases/101633/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "signalnewsyuma.com",
+      "url": "https://signalnewsyuma.com/press-releases/98735/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    },
+    {
+      "name": "stlouis.newsnetmedia.com",
+      "url": "https://stlouis.newsnetmedia.com/story/539511/brooke-and-laurence-banville-launch-banvoyage-travel-site-banvoyage-com/",
+      "rank": null,
+      "source": "domain"
+    }
+  ]
+}
